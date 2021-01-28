@@ -1,0 +1,16 @@
+---
+title: post demo
+date: 2021-01-28 11:33:00 Z
+categories:
+- book
+- xuanhuan
+tags:
+- tag
+post_metadata_simple: post_metadata_simple_value
+post_metadata_list:
+- post_metadata_list_value
+post_metadata_object:
+  Key: post_metadata_object_value
+---
+
+post demo
