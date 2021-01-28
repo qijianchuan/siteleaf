@@ -21,3 +21,9 @@ defaults:
   values:
     layout: page
 permalink: pretty
+site_metadata: site_metadata_value
+site_metadata_list:
+- metadata_value_1
+- metadata_value_2
+site_metadata_object:
+  Key: objectvalue
