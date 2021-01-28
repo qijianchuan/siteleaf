@@ -5,6 +5,11 @@ collections:
   people:
     title: People
     output: true
+    people_metadata_simple: post_metadata_simple_value
+    post_metadata_list:
+    - post_metadata_list_value
+    post_metadata_object:
+      Key: post_metadata_object_value
   posts:
     title: Posts
     output: true
